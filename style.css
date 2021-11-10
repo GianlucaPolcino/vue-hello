@@ -1,0 +1,7 @@
+.gp-container{
+    height: 100vh;
+    background-color: bisque;
+}
+
+.gp-container img{
+    width: 30%;
